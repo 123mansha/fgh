@@ -98,7 +98,7 @@ export default function PersistentDrawerRight() {
       <AppBar
         position="fixed"
         color="transparent"
-        elevation={0}
+        elevation={1}
         className={clsx(classes.appBar, {
           [classes.appBarShift]: open,
         })}

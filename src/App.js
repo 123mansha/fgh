@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-//import './App.css';
+import './App.css';
 import PersistentDrawerRight from './components/Navbar/Navbar';
 import Home from './Pages/Home/Home';
 function App() {
